@@ -1,5 +1,5 @@
 # MyK8Project_VotingApp
-This repo is about the very popular voting application which has be hosted by the use of the kubernetes
+This repo is about the very popular voting application which has be hosted by the use of the kubernetes. 
 
 Kubernetes Microservice Project: Voting App
 In my recent project, I delved into the world of Kubernetes, focusing on orchestrating multiple containers and managing them effectively. The centerpiece of my exploration was the popular open-source GitHub project known as “The Voting App.” I successfully deployed this application using Kubernetes and Docker concepts, gaining valuable insights along the way.
